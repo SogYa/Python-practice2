@@ -1,6 +1,6 @@
 print('Сортировка в обратном порядке')
 
-nums_array= []
+nums_array = []
 for i in range(int(input('Введите количество чисел: '))):
     nums_array.append(int(input('Введите число: ')))
 nums_array.sort()
